@@ -1,4 +1,4 @@
-<h1 align="center">Mostakim Khan Rayan</h1>
+<h1 align="center">Rayan Khan</h1>
 
 <p align="center">
   AI systems · research software · scientific computing · computer vision · reproducible engineering
